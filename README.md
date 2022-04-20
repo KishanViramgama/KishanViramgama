@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Mobile Apps.
-- Learning to dart
+- 🌱 I'm currently learning to jetpack compose and dart 
 <!--
 **KishanViramgama/KishanViramgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
