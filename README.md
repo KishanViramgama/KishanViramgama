@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Mobile Apps.
 - 🌱 I'm currently learning to Jetpack compose and Flutter 
-- <a href="https://play.google.com/store/apps/developer?id=Krishna+app+worlds" rel="noreferrer">Google Play</a>
+- <a href="https://play.google.com/store/apps/developer?id=Krishna+app+worlds" target="_blank" rel="noreferrer">Google Play</a>
 <!--
 **KishanViramgama/KishanViramgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
