@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Mobile Apps.
 - 🌱 I'm currently learning to Jetpack compose and Flutter  
-<a href='https://play.google.com/store/apps/developer?id=Krishna+app+worlds&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250" height="100"/></a>
+<a href='https://play.google.com/store/apps/developer?id=Krishna+app+worlds&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200" height="85"/></a>
 <!--
 **KishanViramgama/KishanViramgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
